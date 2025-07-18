@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# show my bash paid
+
+ps auxf | grep "bash"
